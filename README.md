@@ -9,7 +9,7 @@ Provideniya Bay (UHDM) is an international airport of federal significance, loca
 
 This is the recommended stable release, as it has been thoroughly tested.
 
-[Download stable release here.]
+[Download stable release here.](https://github.com/egoroffse/provideniya-bay/releases)
 
 ## Installation
 
