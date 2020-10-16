@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/egoroffse-provideniya/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132451785880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 366,
+      "date": 132472911807780376
+    },
+    {
+      "path": "scenery/objects.bgl",
+      "size": 4433,
+      "date": 132472774499716579
+    },
+    {
+      "path": "scenery/UHMD-POLY.BGL",
+      "size": 1001,
+      "date": 132472755501599155
+    },
+    {
+      "path": "scenery/world/scenery/objects.bgl",
+      "size": 13569,
+      "date": 132473045667502198
+    },
+    {
+      "path": "scenery/world/scenery/UHMD-POLY.BGL",
+      "size": 1253,
+      "date": 132473045667642074
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "UHMD Provideniya Bay Airfield",
+  "manufacturer": "",
+  "creator": "Sergey Egorov (egoroffse)",
+  "package_version": "0.1.1",
+  "minimum_game_version": "1.9.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": "VERSION 0.1.0 RELEASED OCTOBER 16, 2020\\nInitial realese\n\nAdded\n- apron, runway, taxi parking,roads\n- taxiways\n- runway lights\n- runway signs\n- hangars and other objects\n- grass and ground polygons"
+    }
+  }
+}
