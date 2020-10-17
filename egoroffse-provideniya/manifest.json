@@ -8,7 +8,7 @@
   "minimum_game_version": "1.9.5",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
+      "LastUpdate": "VERSION 0.1.1 RELEASED JANUARY 1, 0\\n",
       "OlderHistory": "VERSION 0.1.0 RELEASED OCTOBER 16, 2020\\nInitial realese\n\nAdded\n- apron, runway, taxi parking,roads\n- taxiways\n- runway lights\n- runway signs\n- hangars and other objects\n- grass and ground polygons"
     }
   }

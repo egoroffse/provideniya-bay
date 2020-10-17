@@ -7,18 +7,23 @@
     },
     {
       "path": "manifest.json",
-      "size": 366,
-      "date": 132472911807780376
+      "size": 530,
+      "date": 132473045772153882
     },
     {
-      "path": "scenery/objects.bgl",
-      "size": 4433,
-      "date": 132472774499716579
+      "path": "ReadMe.txt",
+      "size": 928,
+      "date": 132473047203368982
     },
     {
-      "path": "scenery/UHMD-POLY.BGL",
-      "size": 1001,
-      "date": 132472755501599155
+      "path": "scenery/global/scenery/objects.bgl",
+      "size": 26189,
+      "date": 132473818186416382
+    },
+    {
+      "path": "scenery/global/scenery/UHMD-POLY.BGL",
+      "size": 907,
+      "date": 132473818186536277
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
