@@ -3,7 +3,7 @@
 
 ## About
 
-Provideniya Bay (UHDM) is an international airport of federal significance, located near the village of Ureliki on the southern coast. Provides regular flights with Anadyr, as well as charter flights with Nom.
+Providence Bay (UHDM) is an international airport of federal significance, located near the village of Ureliki on the southern coast. Provides regular flights with Anadyr, as well as charter flights with Nom.
 
 #### Latest Stable Release
 
