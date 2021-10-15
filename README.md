@@ -1,9 +1,9 @@
-## Provideniya Bay (UHDM)
+## Providence Bay (UHMD)
 ![egoroffse](https://img.shields.io/badge/version-v.0.1.1b-orange)
 
 ## About
 
-Providence Bay (UHDM) is an international airport of federal significance, located near the village of Ureliki on the southern coast. Provides regular flights with Anadyr, as well as charter flights with Nom.
+Providence Bay (UHMD) is an international airport of federal significance, located near the village of Ureliki on the southern coast. Provides regular flights with Anadyr, as well as charter flights with Nom.
 
 #### Latest Stable Release
 
