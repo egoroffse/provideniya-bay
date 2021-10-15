@@ -13,7 +13,5 @@ This is the recommended stable release, as it has been thoroughly tested.
 
 ## Installation
 
-### Please follow ALL steps in this README if you encounter any issues with installation before seeking support.
-
 Open the zip that you downloaded from one of the links above, and drag the egoroffse-provideniya folder inside the zip into your Community folder.
 
